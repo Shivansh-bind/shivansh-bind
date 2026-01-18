@@ -44,8 +44,7 @@
 ### 🎮 Beyond Work  
 
 - 🏐 Volleyball player  
-- 🧩 Rubik’s Cube solver (3x3 & 4x4)  
-- 🎤 **National-level Beatboxer**  
+- 🧩 Rubik’s Cube solver (3x3 & 4x4)   
 - 🎧 Audiophile, passionate about sound quality  
 - 🎮 Souls-like games enthusiast & intermediate chess player (1200+ ELO)  
 
