@@ -35,7 +35,7 @@
 - Managing all technical operations: presentations, Excel sheets, video editing  
 - Leading a team to expand services  
 
-**Shubhaarambh Events** – *SMMA % Web Dev*  
+**Shubhaarambh Events** – *SMMA & Web Dev*  
 - Creating banners, wedding films, pre-wedding edits, and portfolio shorts  
 - Supervising the launch of their first official website  
 - Providing complete creative & technical support for event management  
