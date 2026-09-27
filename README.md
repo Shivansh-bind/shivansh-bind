@@ -5,8 +5,8 @@
 ---
 
 ### 🌟 About Me  
-- Pursuing **BCA (Hons.)** at *ICFAI Tech University*  
-- **Technical HOD** at *Innovation Hub Coaching Classes* & *Shubhaarambh Events*  
+- Pursuing **BCA** at *ICFAi Tech University*  
+- **Technical Roles** at *Innovation Hub Coaching Classes* & *Shubhaarambh Events*  
 - Passionate about **software engineering, video editing, PC building, and creative media**  
 - Fluent in **English communication** and team leadership  
 - Always exploring the **technical depth** of tools, games, and media production  
@@ -33,18 +33,16 @@
 
 **Innovation Hub Coaching Classes (Jaipur)** – *Technical HOD*  
 - Managing all technical operations: presentations, Excel sheets, video editing  
-- Leading a team to expand services from Bas Badanpura to Amer  
+- Leading a team to expand services  
 
-**Shubhaarambh Events** – *Technical HOD*  
+**Shubhaarambh Events** – *SMMA % Web Dev*  
 - Creating banners, wedding films, pre-wedding edits, and portfolio shorts  
 - Supervising the launch of their first official website  
 - Providing complete creative & technical support for event management  
 
 ---
 ### 🎮 Beyond Work  
-
-- 🏐 Volleyball player  
-- 🧩 Rubik’s Cube solver (3x3 & 4x4)   
+  
 - 🎧 Audiophile, passionate about sound quality  
 - 🎮 Souls-like games enthusiast & intermediate chess player (1200+ ELO)  
 
